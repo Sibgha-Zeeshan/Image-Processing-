@@ -1,2 +1,3 @@
 # Image-Processing-
 Matrix Chain Multiplication (MCM) is a fundamental problem in computer science. we have explore the mapping of matrix chain multiplication to the context of image processing, specifically for RGB image reconstruction. The central objective of this research is to explore an application of Dynamic Programming
+RGB image represented as three matrices (red, green, and blue channels), the goal is to find the optimal sequence of matrix chain multiplications to reconstruct the original image. Additionally, we aim to analyze the computational cost associated with this matrix chain multiplication.
